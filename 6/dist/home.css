@@ -1,0 +1,13 @@
+body {
+  font-size: 12px bold;
+  font-style: italic;
+  background: #d3d3d3;
+}
+
+.table-responsive .table-bordered{
+  border: 2px solid black;
+}
+
+.table-responsive .table-bordered tr td{
+  border: 2px solid black;
+}
